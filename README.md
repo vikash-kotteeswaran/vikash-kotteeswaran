@@ -1,4 +1,4 @@
-### Hi there 👋
+### Heyo there 👋
 
 <!--
 **vikash-kotteeswaran/vikash-kotteeswaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm an aspiring software developer who is learning about . I also happen to be a physics graduate as well.
+
+![Vikash-Kotteeswaran-Stats](https://github-readme-stats.vercel.app/api?username=vikash-kotteeswaran&show_icons=true&count_private=true&theme=react)
