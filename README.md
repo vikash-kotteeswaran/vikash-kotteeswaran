@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an aspiring software developer who is keen in building web applications. I'm a research type of guy who like to build things that go through a lot of findings on the way. I also happen to be a physics graduate.
+I'm a wannabe software developer who is keen in building web applications. I'm a research type of guy who like to build things that go through a lot of findings on the way. I also happen to be a physics graduate.
 
 - 🔭 Currently working on an web app called "Project Manager App" ( sorry for the name and warnings for a bad README.md 🤦🤦)
 - 🌱 Been learning Frontend development as well as backend. 
