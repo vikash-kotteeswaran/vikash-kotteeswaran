@@ -19,7 +19,7 @@ I'm a wannabe software developer who is keen in building web applications. I'm a
 
 - 🔭 Currently working on an web app called "Project Manager App" ( sorry for the name and warnings for a bad README.md 🤦🤦)
 - 🌱 Been learning Frontend development as well as backend. 
-- 🌱 Focussing on Data Structures and Algorithms as well, on my own pace.
+<!-- - 🌱 Focussing on Data Structures and Algorithms as well, on my own pace. -->
 - ⚡ Fun fact: You can count to 1000 with just 10 fingers! 
 
 <br><br>
