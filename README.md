@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 I'm a wannabe software developer who is keen in building web applications. I'm a research type of guy who like to build things that go through a lot of findings on the way. I also happen to be a physics graduate.
 
 - 🔭 Currently working on an web app called "Project Manager App" ( sorry for the name and warnings for a bad README.md 🤦🤦)
-- 🌱 Been learning Frontend development as well as backend. 
-<!-- - 🌱 Focussing on Data Structures and Algorithms as well, on my own pace. -->
+- 🌱 Been learning Frontend development as well as backend. <!-- - 🌱 Focussing on Data Structures and Algorithms as well, on my own pace. -->
 - ⚡ Fun fact: You can count to 1000 with just 10 fingers! 
 
 <br><br>
