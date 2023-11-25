@@ -6,20 +6,18 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning System Designs, OS Fundamentals
+- 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: @VikashKottees
 - ⚡ Fun fact: ...
 -->
 
-I'm a wannabe software developer who is keen in building web applications. I'm a research type of guy who like to build things that go through a lot of findings on the way. I also happen to be a physics graduate.
+System Designs Enthusiast. Research Focussed. Physics Graduate.
 
-- 🔭 Currently working on an web app called "Project Manager App" ( sorry for the name and warnings for a bad README.md 🤦🤦)
-- 🌱 Been learning Frontend development as well as backend. <!-- - 🌱 Focussing on Data Structures and Algorithms as well, on my own pace. -->
-- ⚡ Fun fact: You can count to 1000 with just 10 fingers! 
+- 🌱 I’m currently learning System Designs, OS Fundamentals
+- ⚡ Fun fact: You can count to 1000 with just 10 fingers!
 
 <br><br>
 ![Vikash-Kotteeswaran-Stats](https://github-readme-stats.vercel.app/api?username=vikash-kotteeswaran&show_icons=true&count_private=true&theme=react)
